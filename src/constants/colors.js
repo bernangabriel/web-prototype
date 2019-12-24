@@ -1,0 +1,7 @@
+export const primary = '#CA906B'
+export const secondary = '#D2C692'
+export const white = '#fff'
+export const grey100 = '#fafafa'
+export const grey200 = '#E9ECEF'
+export const grey400 = '#A9A9A9'
+export const grey500 = '#7b7d7b'
